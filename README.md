@@ -10,7 +10,8 @@ Run this command: go run main.go
 
 FrontEnd:
 Open Terminal
-Navifate to frontend
+Navigate to frontend
+Run this command: npm install
 Run this command: npm start
 
 Pre-req:
