@@ -1,0 +1,22 @@
+.form-control {
+    margin-right: 20px;
+}
+
+.yelp-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #343a40;
+    color: white;
+    border-color: #343a40;
+}
+
+.yelp-row {
+    margin: 0;
+}
+
+.btn {
+    margin-right: 20px;
+}

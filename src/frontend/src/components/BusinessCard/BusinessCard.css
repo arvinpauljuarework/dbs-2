@@ -1,0 +1,15 @@
+.business-card {
+    width: 100%;
+}
+
+.card-img-top {
+    height: 200px;
+    margin-top: 10px;
+}
+
+.no-data-label {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50%;
+    color: #343a40;
+}
